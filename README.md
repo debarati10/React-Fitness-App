@@ -3,7 +3,6 @@
 Browsing through websites promising fitness classes only to find out that they are paid to watch? Or manually searching the names of your target exercise on Youtube every time you start a workout session? 
 Yes, been there too.
 
-Deployed Link : https://debarati-fitnessapp.netlify.app/
 
 ![test](https://github.com/debarati10/React-Fitness-App/blob/1993da400167d1ecb76019e79a742470d0ae7270/ss1.png)
 
